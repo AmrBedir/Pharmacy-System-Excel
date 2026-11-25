@@ -1,0 +1,6 @@
+# backups and Excel lock/temp files
+_backup/
+~$*
+*.tmp
+# generated invoice PDFs (keep folder only)
+Invocies/*.pdf
