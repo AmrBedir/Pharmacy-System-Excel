@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amrbedir.github.io/Pharmacy-System-Excel/sitemap.xml
