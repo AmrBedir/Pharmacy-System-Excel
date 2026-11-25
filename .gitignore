@@ -3,4 +3,4 @@ _backup/
 ~$*
 *.tmp
 # generated invoice PDFs (keep folder only)
-Invocies/*.pdf
+Invoices/*.pdf
